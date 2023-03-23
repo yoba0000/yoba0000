@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoba0000
 - 👀 I’m interested in Software development, Coding in Java, C++, C, Javascript, functional programming languages
-- 🌱 I’m currently learning JEE 8, Spring/springboot framework, Angular
+- 🌱 I’m currently learning JEE 8, Spring/springboot framework, ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
